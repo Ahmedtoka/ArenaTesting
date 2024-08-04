@@ -1,0 +1,51 @@
+Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,HS Code,COO,Location,Incoming,Unavailable,Committed,Available,On hand
+product_22,Band Collar Extension,Size,One Size,Color,Black,Material,Cotton,10055050821700,,,Shop location,0,0,0,0,0
+product_22,Band Collar Extension,Size,One Size,Color,OffWhite,Material,Cotton,10055050800200,,,Shop location,0,0,0,0,0
+product_22,Band Collar Extension,Size,One Size,Color,White,Material,Cotton,10055050800100,,,Shop location,0,0,0,0,0
+product_46,Aurora Winter Shawl,Size,One Size,Color,1,Material,Wool,60077174108302,,,Shop location,0,0,0,1,1
+product_46,Aurora Winter Shawl,Size,One Size,Color,2,Material,Wool,60077174108301,,,Shop location,0,0,0,1,1
+product_168,Basic Cardigan,Size,100 X 85 Cm,Color,Black,Material,Soft Wool,76090668121700,,,Shop location,0,0,0,0,0
+product_168,Basic Cardigan,Size,100 X 85 Cm,Color,Cafe,Material,Soft Wool,76090668122900,,,Shop location,0,0,0,0,0
+product_174,Animal Print Pullover,Size,One Size,Color,1,,,43090166130303,,,Shop location,0,0,0,0,0
+product_174,Animal Print Pullover,Size,One Size,Color,2,,,43090166130403,,,Shop location,0,0,0,0,0
+product_174,Animal Print Pullover,Size,One Size,Color,3,,,43090166130103,,,Shop location,0,0,0,0,0
+product_174,Animal Print Pullover,Size,One Size,Color,4,,,43090166130203,,,Shop location,0,0,0,0,0
+product_179,Aurora Cotton Scarf,Size,200 X 70 Cm,Color,1,Material,Cotton,60011011736008,,,Shop location,0,0,0,6,6
+product_179,Aurora Cotton Scarf,Size,200 X 70 Cm,Color,3,Material,Cotton,60011011736007,,,Shop location,0,0,0,11,11
+product_179,Aurora Cotton Scarf,Size,200 X 70 Cm,Color,4,Material,Cotton,60011011736004,,,Shop location,0,0,1,2,3
+product_179,Aurora Cotton Scarf,Size,200 X 70 Cm,Color,5,Material,Cotton,60011011736009,,,Shop location,0,0,1,0,1
+product_179,Aurora Cotton Scarf,Size,200 X 70 Cm,Color,6,Material,Cotton,60011011736006,,,Shop location,0,0,0,19,19
+product_179,Aurora Cotton Scarf,Size,200 X 70 Cm,Color,8,Material,Cotton,60011011736003,,,Shop location,0,0,0,0,0
+product_104,Autumn Set,Size,Shirt 76 x 96 Cm Pant 98 Cm,Color,1,Material,Knitwear ,10090775017700,,,Shop location,0,0,0,0,0
+product_104,Autumn Set,Size,Shirt 76 x 96 Cm Pant 98 Cm,Color,2,Material,Knitwear ,10090775012100,,,Shop location,0,0,0,0,0
+product_104,Autumn Set,Size,Shirt 76 x 96 Cm Pant 98 Cm,Color,3,Material,Knitwear ,10090775022100,,,Shop location,0,0,0,0,0
+product_104,Autumn Set,Size,Shirt 76 x 96 Cm Pant 98 Cm,Color,4,Material,Knitwear ,10090775002800,,,Shop location,0,0,0,0,0
+product_104,Autumn Set,Size,Shirt 76 x 96 Cm Pant 98 Cm,Color,5,Material,Knitwear ,10090775000400,,,Shop location,0,0,0,0,0
+product_149,Arrows Oversized Shirt,Color,Beige,Size,One Size,,,57090962600400,,,Shop location,0,0,0,5,5
+product_149,Arrows Oversized Shirt,Color,Cafe,Size,One Size,,,57090962622900,,,Shop location,0,0,0,5,5
+product_149,Arrows Oversized Shirt,Color,Grey,Size,One Size,,,57090962612100,,,Shop location,0,0,0,5,5
+product_259,2 Colors Shirt,Size,One Size,Color,1,Material,Cotton,10099353430300,,,Shop location,0,0,0,0,0
+product_259,2 Colors Shirt,Size,One Size,Color,2,Material,Cotton,10099353430200,,,Shop location,0,0,0,0,0
+product_259,2 Colors Shirt,Size,One Size,Color,3,Material,Cotton,10099353430400,,,Shop location,0,0,0,0,0
+product_259,2 Colors Shirt,Size,One Size,Color,4,Material,Cotton,10099353430100,,,Shop location,0,0,0,0,0
+product_259,2 Colors Shirt,Size,One Size,Color,5,Material,Cotton,10099353430500,,,Shop location,0,0,0,1,1
+product_259,2 Colors Shirt,Size,One Size,Color,6,Material,Cotton,10099353430600,,,Shop location,0,0,0,0,0
+product_283,Abaya Midline,Size,145 x 65 cm,Material,Pure Cotton LInen,,,57096261200204,,,Shop location,0,0,0,0,0
+product_284,Abaya Dress,Size,155 x 60 cm,Material,Pure Cotton LInen,,,57096261121704,,,Shop location,0,0,1,0,1
+product_303,Arabian Satin Isdal,Size,155 x 85 cm,Material,Satin,,,57066060736412,,,Shop location,0,0,0,3,3
+arabian-nights-kaftan,Arabian Nights Kaftan,Title,Default Title,,,,,57096363145004,,,Shop location,0,0,0,0,0
+arabian-chiffon-scarf,Arabian Chiffon Scarf,Style,1,Material,Chiffon,Size,200 x 70 cm,10011001014618,,,Shop location,0,0,0,17,17
+arabian-chiffon-scarf,Arabian Chiffon Scarf,Style,2,Material,Chiffon,Size,200 x 70 cm,10011001014614,,,Shop location,0,0,1,10,11
+arabian-chiffon-scarf,Arabian Chiffon Scarf,Style,3,Material,Chiffon,Size,200 x 70 cm,10011001014619,,,Shop location,0,0,0,16,16
+arabian-black-scarf,Arabian Black Scarf,Size,200 x 70 cm,Material,Chiffon,,,10011001014926,,,Shop location,0,0,0,4,4
+artistic-chiffon-scarf,Artistic Chiffon Scarf,Size,200 x 70 cm,Material,Chiffon,,,10011001014944,,,Shop location,0,0,0,10,10
+aloe-moisturizing-brightening-mask,Aloe Moisturizing & Brightening Mask,Title,Default Title,,,,,8809132965841,,,Shop location,0,0,0,50,50
+aurora-blossom-winter-shawl,Aurora Blossom Winter Shawl,Title,Default Title,,,,,60077174004906,,,Shop location,0,0,0,0,0
+product_349,Animal Shawl,Size,One Size,Color,1,Material,Wool,60077174012903,,,Shop location,0,0,1,77,78
+product_349,Animal Shawl,Size,One Size,Color,2,Material,Wool,60077174012904,,,Shop location,0,0,0,80,80
+product_349,Animal Shawl,Size,One Size,Color,3,Material,Wool,60077174012905,,,Shop location,0,0,0,80,80
+product_349,Animal Shawl,Size,One Size,Color,4,Material,Wool,60077174012901,,,Shop location,0,0,0,77,77
+product_349,Animal Shawl,Size,One Size,Color,5,Material,Wool,60077174012902,,,Shop location,0,0,0,0,0
+basic-black-burkini,Basic Black Burkini,Size,S\M,Material,Waterproof,,,10099290321720,,,Shop location,0,0,0,0,0
+basic-black-burkini,Basic Black Burkini,Size,L\XL,Material,Waterproof,,,10099290321740,,,Shop location,0,0,0,0,0
+basic-black-burkini,Basic Black Burkini,Size,2XL\3XL,Material,Waterproof,,,10099290321760,,,Shop location,0,0,0,0,0
